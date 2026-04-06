@@ -5,13 +5,16 @@ __pycache__/
 *.pyd
 .env
 .venv/
-pdfapp/
 
 # PyInstaller
 build/
 dist/
 *.spec
+*.exe
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Editor
+.vscode/
